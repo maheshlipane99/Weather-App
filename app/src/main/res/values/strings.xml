@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="current_label">Current</string>
+    <string name="humidity_label">Humidity</string>
+    <string name="temperature_label">Temperature</string>
+    <string name="wind_label">Wind</string>
+    <string name="next_4_days_hourly">Next 4 Days/Hourly</string>
+    <string name="next_15_days_label">Next 15 Days</string>
+    <string name="search_for_a_city_label">Search for a city</string>
+    <string name="zero_label">0%d</string>
+    <string name="wind_unit_label"> km/hr</string>
+    <string name="humidity_unit_label"> %</string>
+    <string name="temp_unit_label"> f°</string>
+    <string name="max_temp_label">Max.</string>
+    <string name="min_temp_label">Min.°</string>
+    <string name="openweathermap_api_key_label">OpenWeatherMap API Key</string>
+    <string name="api_key_description">For using application you should provide API key. It is free. Please open link below and create account. After that you can get API key.</string>
+    <string name="get_api_key_label">Get API Key</string>
+    <string name="api_key_label">API Key</string>
+    <string name="search_label">Search</string>
+    <string name="no_internet_message">Please check internet connection</string>
+    <string name="no_city_found_message">No city found with this name</string>
+    <string name="invalid_api_key_message">API key is invalid. Wait for next update</string>
+    <string name="network_exception_message">Network connection problem</string>
+    <string name="retry_label">Retry</string>
+    <string name="ok_label">OK</string>
+    <string name="night_mode_label">Night Mode</string>
+</resources>
